@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KynoIchi
 - 👀 I’m interested in Artificial Inteligence
-- 🌱 I’m currently learning Python and JAVA
+- 🌱 I’m currently learning Python and R
 - 💞️ I’m looking to collaborate on Machine Learning
 - 📫 How to reach me Instagram
 
